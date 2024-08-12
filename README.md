@@ -169,3 +169,6 @@ def summarize(art, batch_size):
 ```
 - This function processes a list of articles in batches, tokenizes them and generates summaries using a the pre-trained models.
 - Once done, it decodes the summaries and returns the list of summaries
+
+# Example of generated results
+![alt text](image.png)
