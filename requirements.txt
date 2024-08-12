@@ -1,0 +1,6 @@
+beautifulsoup4
+tf_keras
+requests
+transformers
+torch
+tensorflow==2.0.0
