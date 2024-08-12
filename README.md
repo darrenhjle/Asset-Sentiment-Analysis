@@ -171,4 +171,4 @@ def summarize(art, batch_size):
 - Once done, it decodes the summaries and returns the list of summaries
 
 # Example of generated results
-![alt text](image.png)
+![alt text](image-1.png)
