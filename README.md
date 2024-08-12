@@ -85,7 +85,7 @@ def filter(urls, excludeList):
 - Ensures that only unique and cleaned URLs are returned
 
 ```python
-excludeList = ['maps', 'policies', 'preferences', 'accounts', 'support']
+exclude = ['maps', 'policies', 'preferences', 'accounts', 'support']
 ```
 - Defines a list of words to exclude
 - URLs containing any of these words will be excluded
